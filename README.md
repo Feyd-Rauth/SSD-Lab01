@@ -1,5 +1,7 @@
 # String Reverter
-#### This is a command line tool that allows you to reverse any given string
+This is a command line tool that allows you to reverse any given string
+
+![Usage image](https://github.com/Feyd-Rauth/SSD-Lab01/blob/main/Screenshot_20210818_120136.png?raw=true)
   
 ## Usage
 ```console
