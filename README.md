@@ -5,7 +5,7 @@ This is a command line tool that allows you to reverse any given string
   
 ## Usage
 ```console
-$ git clone https://github.com/Feyd-Rauth/ SSD-Lab01 string-reverter
+$ git clone https://github.com/Feyd-Rauth/SSD-Lab01 string-reverter
 $ cd string-reverter
 
 $ python sript.py
